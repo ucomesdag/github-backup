@@ -1,0 +1,5 @@
+---
+repository:
+  description: Bash script to backup all your Github repositories.
+  homepage: https://mesd.ag/
+  topics: github, backup
